@@ -7,7 +7,7 @@ Il s'agit d'un ordinateur portable Google Colab avec LocalTunnel + Rclone + QBit
 
 <br><b>Usage:</b>
 <br>
-<a href="[https://github.com/fpet007/Torrents-to-Onedrive/blob/main/Serveur_qBittorrent_LocalTunnel_avec_Onedrive.ipyn](https://colab.research.google.com/github/fpet007/Torrents-to-Onedrive/blob/main/Serveur_qBittorrent_LocalTunnel_avec_Onedrive.ipynb)" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+<a href="https://colab.research.google.com/github/fpet007/Torrents-to-Onedrive/blob/main/Serveur_qBittorrent_LocalTunnel_avec_Onedrive.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 1. Cliquez sur le bouton "Open in Colab" et appuyez sur ctrl + f9 
 <br>
 Pour les personnes qui ne connaissent pas l'interface Web, voici à quoi cela ressemble:
