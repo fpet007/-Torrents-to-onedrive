@@ -1,4 +1,4 @@
-# -Torrents-to-onedrive
+# Torrents-to-onedrive
 [![Generic badge](https://img.shields.io/badge/Author-fpet007-green)](https://shields.io/)
 
 Il s'agit d'un ordinateur portable Google Colab avec LocalTunnel + Rclone + QBittorrent, qui peut télécharger des torrents sur Onedrive.
